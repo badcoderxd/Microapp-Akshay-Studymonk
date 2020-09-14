@@ -1,0 +1,7 @@
+{
+  "name": "StudyMonk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
